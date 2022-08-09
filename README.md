@@ -1,2 +1,10 @@
-# terraform-s3-bucket-policy-sample
-S3 Bucket Policy Sample Template with Terraform.
+# 概要
+Terraform で各種ログバケット用の S3 バケットポリシーを作るサンプルです。
+
+以下のサービスのバケットポリシーがあります。
+
+- ALB
+- CloudFront
+- GuardDuty
+
+詳しくは DevelopersIO をご参照ください。
