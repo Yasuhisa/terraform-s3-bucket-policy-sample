@@ -7,4 +7,4 @@ Terraform で各種ログバケット用の S3 バケットポリシーを作る
 - CloudFront
 - GuardDuty
 
-詳しくは DevelopersIO をご参照ください。
+詳しくは[Terraform の Data Source を使って Amazon S3 各種サービスログ用のアクセス許可を設定してみた | DevelopersIO](https://dev.classmethod.jp/articles/terraform-s3-permissions-using-data-source/)をご参照ください。
